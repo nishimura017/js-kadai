@@ -1,4 +1,3 @@
-
 //要素を取得
 const start=document.getElementById('start');
 const stop=document.getElementById('stop');
